@@ -1,0 +1,1 @@
+This is a simple reproducer of [ansible-modules-core issue #1853](https://github.com/ansible/ansible-modules-core/issues/1853).
